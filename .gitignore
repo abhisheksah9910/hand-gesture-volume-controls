@@ -1,0 +1,9 @@
+dist/
+build/
+*.spec
+vision_env/
+__pycache__/dist/ 
+build/ 
+vision_env/ 
+*.spec 
+__pycache__/ 
